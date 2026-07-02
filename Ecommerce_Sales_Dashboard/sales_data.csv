@@ -1,0 +1,41 @@
+Order_ID,Customer,Platform,Category,Product,Sales,Profit,Quantity,Region,Date
+1001,Rahul Sharma,Amazon,Electronics,Laptop,55000,12000,1,South,2025-01-05
+1002,Priya Singh,Flipkart,Fashion,Shoes,3000,700,2,North,2025-01-06
+1003,Amit Kumar,Amazon,Electronics,Smartphone,25000,5000,1,West,2025-01-08
+1004,Sneha Patel,Flipkart,Home,Chair,4500,1000,3,East,2025-01-10
+1005,Arjun Reddy,Amazon,Electronics,Tablet,18000,3500,1,South,2025-01-12
+1006,Meena Iyer,Flipkart,Fashion,T-Shirt,1200,250,4,South,2025-01-14
+1007,Karan Verma,Amazon,Electronics,Headphones,2500,600,2,North,2025-01-15
+1008,Ananya Das,Flipkart,Beauty,Cosmetics,1800,400,3,East,2025-01-16
+1009,Vikram Rao,Amazon,Electronics,Keyboard,1500,300,2,West,2025-01-18
+1010,Divya Nair,Flipkart,Home,Lamp,2200,500,2,South,2025-01-20
+1011,Rohit Gupta,Amazon,Electronics,Monitor,12000,2500,1,North,2025-02-02
+1012,Kavya Menon,Flipkart,Fashion,Handbag,3500,800,1,East,2025-02-04
+1013,Sanjay Kumar,Amazon,Electronics,Mouse,800,150,3,West,2025-02-06
+1014,Pooja Sharma,Flipkart,Beauty,Perfume,2700,550,2,South,2025-02-08
+1015,Naveen Raj,Amazon,Home,Table,6500,1500,1,South,2025-02-10
+1016,Aishwarya Rao,Flipkart,Fashion,Jeans,2200,450,2,North,2025-02-12
+1017,Varun Singh,Amazon,Electronics,Camera,35000,7000,1,East,2025-02-15
+1018,Neha Verma,Flipkart,Beauty,Lipstick,900,180,5,West,2025-02-18
+1019,Akash Patel,Amazon,Home,Sofa,25000,5500,1,South,2025-02-20
+1020,Ritu Jain,Flipkart,Fashion,Jacket,4000,900,1,North,2025-02-22
+1021,Manoj Kumar,Amazon,Electronics,Printer,8500,1800,1,East,2025-03-02
+1022,Shreya Das,Flipkart,Home,Curtains,1700,350,2,South,2025-03-04
+1023,Harish Reddy,Amazon,Electronics,Smartwatch,6500,1400,2,West,2025-03-06
+1024,Nisha Gupta,Flipkart,Beauty,Face Wash,600,120,4,North,2025-03-08
+1025,Vivek Sharma,Amazon,Electronics,TV,45000,9000,1,South,2025-03-10
+1026,Anjali Singh,Flipkart,Fashion,Saree,2800,600,2,East,2025-03-12
+1027,Suresh Kumar,Amazon,Home,Bookshelf,5200,1100,1,West,2025-03-14
+1028,Keerthana M,Flipkart,Beauty,Shampoo,450,100,5,South,2025-03-16
+1029,Deepak Yadav,Amazon,Electronics,Speaker,3500,700,2,North,2025-03-18
+1030,Shruthi Nair,Flipkart,Home,Mirror,1900,400,2,East,2025-03-20
+1031,Ramesh Patel,Amazon,Electronics,Laptop,62000,13000,1,West,2025-04-02
+1032,Swathi Rao,Flipkart,Fashion,Sandals,1500,300,2,South,2025-04-04
+1033,Abhishek Singh,Amazon,Electronics,Phone,28000,5800,1,North,2025-04-06
+1034,Lakshmi Devi,Flipkart,Beauty,Cream,850,170,3,East,2025-04-08
+1035,Ganesh Kumar,Amazon,Home,Dining Table,12000,2600,1,South,2025-04-10
+1036,Monika Sharma,Flipkart,Fashion,Top,950,200,3,West,2025-04-12
+1037,Rajesh Verma,Amazon,Electronics,Router,2200,500,2,East,2025-04-14
+1038,Priyanka Jain,Flipkart,Beauty,Makeup Kit,3200,700,1,North,2025-04-16
+1039,Kishore Reddy,Amazon,Electronics,Power Bank,1800,350,3,South,2025-04-18
+1040,Divya Sharma,Flipkart,Home,Clock,700,150,2,West,2025-04-20
